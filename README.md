@@ -3,3 +3,4 @@ first repository
 Hello!
 
 I am new to coding! I am excited to learn!
+I am lost help!
